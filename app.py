@@ -1,1 +1,0 @@
-print('bujhte parsi')
